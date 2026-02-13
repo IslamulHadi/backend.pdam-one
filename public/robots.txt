@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /api/
+Disallow: /storage/
+Disallow: /_debugbar/
+Disallow: /telescope/
+Disallow: /horizon/
+
+Sitemap: /sitemap.xml
